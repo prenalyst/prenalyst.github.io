@@ -1,0 +1,28 @@
+languages:
+  - item: Python
+  - item: R
+  - item: SQL
+  - item: HTML/CSS
+
+frameworks:
+  - item: PySpark
+  - item: Flask
+  - item: Keras
+  - item: Tensorflow
+  - item: Scikitlearn
+  - item: Fast AI
+  - item: Pytorch
+
+tools:
+  - item: Git
+  - item: ElasticSearch
+  - item: BigQuery/PostgresSQL
+  - item: Tableau/Kibana/Power BI
+  - item: Postman
+  - item: Docker
+
+deployment:
+  - item: Google Cloud Platform
+  - item: Amazon Web Services
+  - item: Microsoft Azure DevOps
+  - item: Docker

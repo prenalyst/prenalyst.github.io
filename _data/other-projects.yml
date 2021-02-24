@@ -1,0 +1,31 @@
+- name: Customer Behaviour Prediction Model
+  url: https://github.com/Godskid89/Predicting-online-customer-behaviour/blob/master/Joseph_Code_File.R
+  code: https://github.com/Godskid89/Predicting-online-customer-behaviour/blob/master/Joseph_Code_File.R
+  description: A model that predicts customer behaviour on e-commerce platform
+  used:
+  - thing: R
+  - thing: Machine learning
+
+- name: Customer Segmentation
+  url: https://github.com/Godskid89/customer_segmentation/blob/master/Customer_segmentation.ipynb
+  code: https://github.com/Godskid89/customer_segmentation/blob/master/Customer_segmentation.ipynb
+  description: A customer segmentation analysis
+  used:
+  - thing: Python
+  - thing: clustering
+
+- name: Google Stock Price Trend Prediction Model
+  url: https://github.com/Godskid89/Using-RNN_LSTM_to-Predict-the-future-of-Google-Stock-Price/blob/master/rnn.py
+  code: https://github.com/Godskid89/Using-RNN_LSTM_to-Predict-the-future-of-Google-Stock-Price/blob/master/rnn.py
+  description: A model that detect trends of Google Stock Price using Recurrent Neural Network
+  used:
+  - thing: Python
+  - thing: Deep learning
+
+- name: Loan Defaulters Prediction Model
+  url: https://github.com/Godskid89/Loan-Default-Prediction-Using-Support-Vector-Machine/blob/master/SVM_loan.Rmd
+  code: https://github.com/Godskid89/Loan-Default-Prediction-Using-Support-Vector-Machine/blob/master/SVM_loan.Rmd
+  description: A model that predict loan defaulters with probability using support vector machine
+  used:
+  - thing: R
+  - thing: Machine learning

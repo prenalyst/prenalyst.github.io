@@ -1,0 +1,40 @@
+# Site settings
+name: Joseph Oladokun
+title: Joseph Oladokun | Data Scientist
+description: Joseph Oladokun is a solution-minded data scientist with solid understanding of end-to-end data science best practices and loves to crunch data and analyse stuff, I'm also an open source hobbyist & a community mentor focused on making impacts.👨‍
+url: https://godskid89.github.io
+baseurl: ""
+email: oladokunjoseph2@gmail.com
+keywords: joseph oladokun, data scientist, machine learning, artificial intelligence, godskid89
+cover: #
+logo: #
+resume: #
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/joseph-oladokun-861283111/
+  - title: twitter
+    url: https://twitter.com/Godskid_CFC
+  - title: github
+    url: https://github.com/godskid89
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "*.gemspec"
+  - "README.md"
+  - "node_modules"
+  - "build"
+  - "gulpfile.js"
+  - "package.json"
+
+keep_files:
+  - "CNAME"
+  - ".git"
+  - ".gitignore"
+
+plugins:
+  - jekyll-minifier
+  - jekyll-sitemap
